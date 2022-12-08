@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-clean-arch-template",
+  "version": "0.0.1",
+  "description": "Base template for NodeJS project implementing Clean architecture principles ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "typescript",
+    "javascript",
+    "js",
+    "template",
+    "backend",
+    "clean-architecture"
+  ],
+  "author": "Jorge Cervantes <jcdev1825@gmail.com>",
+  "license": "ISC"
+}
