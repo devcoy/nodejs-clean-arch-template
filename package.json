@@ -1,6 +1,6 @@
 {
   "name": "nodejs-clean-arch-template",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Base template for NodeJS project implementing Clean architecture principles ",
   "main": "index.js",
   "scripts": {
